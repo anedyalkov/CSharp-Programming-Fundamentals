@@ -9,9 +9,9 @@
         public static void Main()
         {
             var firstList = Console.ReadLine()
-              .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-              .Select(int.Parse)
-              .ToList();
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToList();
 
             var secondList = Console.ReadLine()
               .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)

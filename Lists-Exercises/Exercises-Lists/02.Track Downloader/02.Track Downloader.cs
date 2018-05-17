@@ -9,8 +9,8 @@
         public static void Main()
         {
             var blacklistedWords = Console.ReadLine()
-               .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-               .ToList();
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .ToList();
 
             var fileNames = new List<string>();
             bool inputContainsBlackListedWord = false;

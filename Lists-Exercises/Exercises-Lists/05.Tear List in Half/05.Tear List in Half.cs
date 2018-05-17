@@ -9,9 +9,9 @@
         public static void Main()
         {
             var numbers = Console.ReadLine()
-               .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-               .Select(int.Parse)
-               .ToList();
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToList();
 
             var firstList = new List<int>();
             var secondList = new List<int>();
