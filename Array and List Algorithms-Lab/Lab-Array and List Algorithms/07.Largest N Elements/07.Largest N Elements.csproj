@@ -7,7 +7,7 @@
     <ProjectGuid>{5B1B535E-B2DF-4100-8599-87B9316D7025}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_07.Largest_N_Elements</RootNamespace>
-    <AssemblyName>_07.Largest_N_Elements</AssemblyName>
+    <AssemblyName>07.Largest N Elements</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="07.Largest N Elements.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
