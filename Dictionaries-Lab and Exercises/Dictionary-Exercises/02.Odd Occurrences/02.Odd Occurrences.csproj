@@ -7,7 +7,7 @@
     <ProjectGuid>{DB683F79-4F59-4923-8CB3-6BE939E699DC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_02.Odd_Occurrences</RootNamespace>
-    <AssemblyName>_02.Odd_Occurrences</AssemblyName>
+    <AssemblyName>02.Odd Occurrences</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="02.Odd Occurrences.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

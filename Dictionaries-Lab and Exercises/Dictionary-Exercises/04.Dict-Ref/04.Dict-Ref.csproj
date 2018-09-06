@@ -7,7 +7,7 @@
     <ProjectGuid>{0DF8EBEB-F522-4B25-AC36-552FC8906AB1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_04.Dict_Ref</RootNamespace>
-    <AssemblyName>_04.Dict_Ref</AssemblyName>
+    <AssemblyName>04.Dict-Ref</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="04.Dict-Ref.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

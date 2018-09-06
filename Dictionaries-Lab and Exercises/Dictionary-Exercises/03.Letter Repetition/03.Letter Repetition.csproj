@@ -7,7 +7,7 @@
     <ProjectGuid>{C0EFCFAA-64DA-4049-93B4-6BFE5BE8883E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_03.Letter_Repetition</RootNamespace>
-    <AssemblyName>_03.Letter_Repetition</AssemblyName>
+    <AssemblyName>03.Letter Repetition</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="03.Letter Repetition.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

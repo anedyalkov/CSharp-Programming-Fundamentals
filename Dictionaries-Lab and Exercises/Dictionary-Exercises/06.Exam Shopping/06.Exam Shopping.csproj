@@ -7,7 +7,7 @@
     <ProjectGuid>{AD336FD6-FCE7-42F1-9C64-AA9D1313E4E7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_06.Exam_Shopping</RootNamespace>
-    <AssemblyName>_06.Exam_Shopping</AssemblyName>
+    <AssemblyName>06.Exam Shopping</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="06.Exam Shopping.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

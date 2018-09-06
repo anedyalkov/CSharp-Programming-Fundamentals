@@ -7,7 +7,7 @@
     <ProjectGuid>{DBD43D7F-EDDC-4F4D-9220-7D0000A2FEC1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_05.Mixed_Phones</RootNamespace>
-    <AssemblyName>_05.Mixed_Phones</AssemblyName>
+    <AssemblyName>05.Mixed Phones</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="05.Mixed Phones.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
